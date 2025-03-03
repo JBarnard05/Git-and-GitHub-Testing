@@ -1,3 +1,4 @@
 # Git-and-GitHub-Testing
 This project will be used to test Git and GitHub features and codes in order to practice new skills. After completing the "Learning Git and GitHub" course on LinkedIn I will be implementing and testing what I have learnt in this project. 
 This project will contain an "index.html" html file that will be updated, as well as a "rename.md" textfile that will be used to practice renaming files.
+A ".gitignore" file was created with this repository using the "Node" template on GitHub, however I have added "notes/" to the end the file in order to list my own files that I want Git to ignore. I have added a "ignorefile.md" textfile in my notes folder to test the ".gitignore" file, this file contains my personal notes reflecting on my understanding of the ".gitignore" file. 
